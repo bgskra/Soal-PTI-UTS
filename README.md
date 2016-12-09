@@ -4,8 +4,8 @@ Sebutkan perbedaan antara LCD dan CRT!
 Jawab :
 
 1. Ukuran
-LCD: lebih ramping dang ringan
-CRT : lebih besar karna memerlukan ruang tabung CRT
+LCD lebih ramping dan ringan, sedangkan 
+CRT lebih besar karna memerlukan ruang tabung CRT
 
 2. Warna
 LCD : sudah memproduksi warna yang tak terbatas
