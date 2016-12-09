@@ -1,11 +1,11 @@
 # Soal-PTI-UTS
 
-1.	Sebutkan perbedaan antara LCD dan CRT!
+Sebutkan perbedaan antara LCD dan CRT!
 Jawab :
-1. Ukuran
-LCD: lebih ramping dang ringan
-CRT : lebih besar karna memerlukan ruang tabung CRT
-2. Warna
+  1. Ukuran
+  LCD: lebih ramping dang ringan
+  CRT : lebih besar karna memerlukan ruang tabung CRT
+  2. Warna
 LCD : sudah memproduksi warna yang tak terbatas
 CRT : hanya memproduksi warna sampai jutaan jenis saja
 3. Resolusi
